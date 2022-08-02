@@ -1,8 +1,8 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Parques Nacionales",
+        "paragraph": "Gestionamos las áreas protegidas más importantes del país como espacios de conservación del patrimonio natural y cultural, investigación, turismo sostenible y desarrollo local."
 
     },
     "About": {
@@ -113,22 +113,60 @@
         "youtube": "youtube.com"
     },
     "Features": [{
+        "icon": "fa fa-comments-o",
+        "title": "Noroeste",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+        "icon": "fa fa-group",
+        "title": "Noreste",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+        "icon": "fa fa-magic",
+        "title": "Centro",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+        "icon": "fa fa-magic",
+        "title": "Patagonia",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+        "icon": "fa fa-magic",
+        "title": "Patagonia Austral",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+        "icon": "fa fa-magic",
+        "title": "Mar Argentino",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }],
+    "Noticias": [{
+            "image": "img/palermo.jpeg",
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "date": "02 de agosto de 2022",
+            "title": "Reunión con el equipo del Banco Mundial",
+            "text": ""
         },
         {
+            "image": "img/palermo.jpeg",
             "icon": "fa fa-bullhorn",
+            "date": "29 de julio de 2022",
             "title": "Lorem ipsum",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
+            "image": "img/palermo.jpeg",
             "icon": "fa fa-group",
+            "date": "28 de julio de 2022",
             "title": "Lorem ipsum",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
+            "image": "img/palermo.jpeg",
             "icon": "fa fa-magic",
+            "date": "27 de julio de 2022",
             "title": "Lorem ipsum",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         }
